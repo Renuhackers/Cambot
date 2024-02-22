@@ -111,7 +111,7 @@ function shortenWithTinyURL(originalUrl) {
     });
 }
 
-const channelUsername1 = '@MOGATEAM';
+const channelUsername1 = '@R';
 const channelUsername2 = '-1001928933168';
 
 const joinChannel1Button = {
